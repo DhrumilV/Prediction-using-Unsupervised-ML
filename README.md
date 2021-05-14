@@ -1,4 +1,4 @@
-# Predicting Clusters
+# Predicting Clusters using KMeans
 
 The Sparks Foundation Internship Task
 
